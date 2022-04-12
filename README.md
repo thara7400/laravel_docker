@@ -1,3 +1,5 @@
+/src/laravel_sample
+
 docker-compose up -d --build
 
 docker exec -it php-laravel bash
